@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d33dcf935ca8384ebc749e33cfd580e, type: 3}
+  m_Name: "\u85E4\u539F\u307F\u3055\u304D"
+  m_EditorClassIdentifier: 
+  name: "\u85E4\u539F\u307F\u3055\u304D"
+  emotionStatus: 0
+  normal: {fileID: 21300000, guid: cbba9b93ccae5f0418efdd522c2599bf, type: 3}
+  prond: {fileID: 21300000, guid: 74298a44b3144624c8b64a9886075ff2, type: 3}
+  angry: {fileID: 21300000, guid: 6336a3856f184ac49af2d36a0a298af0, type: 3}
+  shock: {fileID: 21300000, guid: 3236cdd2dcbd8b0438ef094b0df3b70e, type: 3}
+  happy: {fileID: 21300000, guid: 73fb1acfd07682c438fc0a307871a71c, type: 3}
+  hurt: {fileID: 21300000, guid: b317431b39a2f1641a4a2ed253c62d42, type: 3}
